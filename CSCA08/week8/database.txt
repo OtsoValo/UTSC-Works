@@ -1,0 +1,8 @@
+Alice,Alicson,28,1200
+Bob,Bobson,28,300
+Charlie,Charlson,89,8000,
+David,Davidson,12,10
+Eve,Evson,45,23456
+Frank,Frankson,34,0
+Grace,Gracson,22,1000
+Heidi,Heidson,30,6734
